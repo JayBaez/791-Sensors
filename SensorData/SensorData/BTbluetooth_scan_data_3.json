@@ -1,0 +1,3426 @@
+[
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -86,
+        "distance": 10.0
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.450000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -97,
+        "distance": 26.489692876105284
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -52,
+        "distance": 0.4923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -100,
+        "distance": 34.5510729459222
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -96,
+        "distance": 24.244620170823282
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -65,
+        "distance": 1.5570684047537309
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -88,
+        "distance": 11.937766417144363
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.780000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -65,
+        "distance": 1.5570684047537309
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -88,
+        "distance": 11.937766417144363
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.120000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -65,
+        "distance": 1.5570684047537309
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -88,
+        "distance": 11.937766417144363
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -94,
+        "distance": 20.309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.460000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -46,
+        "distance": 0.2894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.810000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -94,
+        "distance": 20.309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -49,
+        "distance": 0.3775053205324394
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -65,
+        "distance": 1.5570684047537309
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -94,
+        "distance": 20.309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -88,
+        "distance": 11.937766417144363
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -94,
+        "distance": 20.309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -56,
+        "distance": 0.7017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "A0-D0-5B-BA-8F-49",
+        "address": "A0:D0:5B:BA:8F:49",
+        "rssi": -102,
+        "distance": 41.24626382901352
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.510000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -98,
+        "distance": 28.942661247167504
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -65,
+        "distance": 1.5570684047537309
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -45,
+        "distance": 0.2648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -89,
+        "distance": 13.043213867190055
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -52,
+        "distance": 0.4923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.200000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -88,
+        "distance": 11.937766417144363
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.550000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -97,
+        "distance": 26.489692876105284
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -88,
+        "distance": 11.937766417144363
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -65,
+        "distance": 1.5570684047537309
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.900000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -52,
+        "distance": 0.4923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -45,
+        "distance": 0.2648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.240000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -42,
+        "distance": 0.20309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -49,
+        "distance": 0.3775053205324394
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -97,
+        "distance": 26.489692876105284
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -94,
+        "distance": 20.309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.580000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -51,
+        "distance": 0.4506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -89,
+        "distance": 13.043213867190055
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -88,
+        "distance": 11.937766417144363
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.930000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -97,
+        "distance": 26.489692876105284
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -51,
+        "distance": 0.4506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.310000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -100,
+        "distance": 34.5510729459222
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.670000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -51,
+        "distance": 0.4506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -97,
+        "distance": 26.489692876105284
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -94,
+        "distance": 20.309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:36:31.030000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -51,
+        "distance": 0.4506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -94,
+        "distance": 20.309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.410000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -51,
+        "distance": 0.4506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -94,
+        "distance": 20.309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.770000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.140000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.140000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -51,
+        "distance": 0.4506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.140000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.140000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -86,
+        "distance": 10.0
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.140000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.140000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.150000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.150000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.150000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.150000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.150000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.150000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.150000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.150000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.150000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.150000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.510000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -88,
+        "distance": 11.937766417144363
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -97,
+        "distance": 26.489692876105284
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.880000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -96,
+        "distance": 24.244620170823282
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -52,
+        "distance": 0.4923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.250000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.620000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -48,
+        "distance": 0.3455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -86,
+        "distance": 10.0
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -95,
+        "distance": 22.18982341458972
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -56,
+        "distance": 0.7017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.990000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -97,
+        "distance": 26.489692876105284
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -49,
+        "distance": 0.3775053205324394
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -54,
+        "distance": 0.5878016072274913
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -54,
+        "distance": 0.5878016072274913
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.390000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -96,
+        "distance": 24.244620170823282
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -47,
+        "distance": 0.31622776601683794
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -86,
+        "distance": 10.0
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -94,
+        "distance": 20.309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -86,
+        "distance": 10.0
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.780000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -86,
+        "distance": 10.0
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -46,
+        "distance": 0.2894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -93,
+        "distance": 18.587918911465636
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:30.150000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "[LG] webOS TV UN7370PUC",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -96,
+        "distance": 24.244620170823282
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -96,
+        "distance": 24.244620170823282
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -96,
+        "distance": 24.244620170823282
+    },
+    {
+        "timestamp": "2024-11-27T13:37:35.530000",
+        "id": "sensor3",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    }
+]

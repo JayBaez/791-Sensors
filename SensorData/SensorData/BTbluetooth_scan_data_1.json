@@ -1,0 +1,3298 @@
+[
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -39,
+        "distance": 0.1557068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -34,
+        "distance": 0.1
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -56,
+        "distance": 0.7017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -48,
+        "distance": 0.3455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -46,
+        "distance": 0.2894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -56,
+        "distance": 0.7017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:35:05.500000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -54,
+        "distance": 0.5878016072274913
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -37,
+        "distance": 0.13043213867190054
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -37,
+        "distance": 0.13043213867190054
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -25,
+        "distance": 0.04506570337745473
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -49,
+        "distance": 0.3775053205324394
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -52,
+        "distance": 0.4923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:35:10.830000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -45,
+        "distance": 0.2648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -92,
+        "distance": 17.012542798525892
+    },
+    {
+        "timestamp": "2024-11-27T13:35:16.150000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -45,
+        "distance": 0.2648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -42,
+        "distance": 0.20309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -54,
+        "distance": 0.5878016072274913
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:21.480000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -50,
+        "distance": 0.4124626382901352
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.820000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.820000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.820000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -11,
+        "distance": 0.013043213867190054
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -48,
+        "distance": 0.3455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -65,
+        "distance": 1.5570684047537309
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:35:26.830000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -44,
+        "distance": 0.24244620170823283
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -54,
+        "distance": 0.5878016072274913
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -50,
+        "distance": 0.4124626382901352
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -48,
+        "distance": 0.3455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -37,
+        "distance": 0.13043213867190054
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:35:32.160000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -42,
+        "distance": 0.20309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -42,
+        "distance": 0.20309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -46,
+        "distance": 0.2894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -37,
+        "distance": 0.13043213867190054
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -50,
+        "distance": 0.4124626382901352
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -45,
+        "distance": 0.2648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -52,
+        "distance": 0.4923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:35:37.520000",
+        "id": "sensor1",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.850000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -28,
+        "distance": 0.05878016072274912
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -44,
+        "distance": 0.24244620170823283
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -48,
+        "distance": 0.3455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -65,
+        "distance": 1.5570684047537309
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -40,
+        "distance": 0.17012542798525887
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:35:42.860000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -45,
+        "distance": 0.2648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -50,
+        "distance": 0.4124626382901352
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:48.170000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -46,
+        "distance": 0.2894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -11,
+        "distance": 0.013043213867190054
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -42,
+        "distance": 0.20309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -44,
+        "distance": 0.24244620170823283
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -44,
+        "distance": 0.24244620170823283
+    },
+    {
+        "timestamp": "2024-11-27T13:35:53.510000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.860000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.860000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -25,
+        "distance": 0.04506570337745473
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.860000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.860000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -52,
+        "distance": 0.4923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.860000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.860000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -45,
+        "distance": 0.2648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.870000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -42,
+        "distance": 0.20309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.870000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.870000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.870000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.870000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.870000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.870000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.870000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -39,
+        "distance": 0.1557068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.870000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:35:58.870000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.210000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.210000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.210000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -40,
+        "distance": 0.17012542798525887
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.210000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.210000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.210000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.220000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -48,
+        "distance": 0.3455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.220000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.220000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.220000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.220000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:36:04.220000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -46,
+        "distance": 0.2894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -40,
+        "distance": 0.17012542798525887
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -49,
+        "distance": 0.3775053205324394
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:09.560000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -28,
+        "distance": 0.05878016072274912
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -44,
+        "distance": 0.24244620170823283
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -40,
+        "distance": 0.17012542798525887
+    },
+    {
+        "timestamp": "2024-11-27T13:36:14.900000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -34,
+        "distance": 0.1
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -49,
+        "distance": 0.3775053205324394
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -42,
+        "distance": 0.20309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:36:20.250000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.600000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.600000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -34,
+        "distance": 0.1
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.600000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -39,
+        "distance": 0.1557068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -52,
+        "distance": 0.4923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -56,
+        "distance": 0.7017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:25.610000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -35,
+        "distance": 0.10926008611173782
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -44,
+        "distance": 0.24244620170823283
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -51,
+        "distance": 0.4506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -56,
+        "distance": 0.7017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:36:30.970000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -32,
+        "distance": 0.0837677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -42,
+        "distance": 0.20309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -53,
+        "distance": 0.5379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -48,
+        "distance": 0.3455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:36:36.330000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -47,
+        "distance": 0.31622776601683794
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -63,
+        "distance": 1.3043213867190053
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -45,
+        "distance": 0.2648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:36:41.680000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -28,
+        "distance": 0.05878016072274912
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -50,
+        "distance": 0.4124626382901352
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -47,
+        "distance": 0.31622776601683794
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -46,
+        "distance": 0.2894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -72,
+        "distance": 2.894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.030000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.040000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:36:47.040000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -44,
+        "distance": 0.24244620170823283
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -46,
+        "distance": 0.2894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:36:52.380000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -56,
+        "distance": 0.7017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -34,
+        "distance": 0.1
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -40,
+        "distance": 0.17012542798525887
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -39,
+        "distance": 0.1557068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -65,
+        "distance": 1.5570684047537309
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -41,
+        "distance": 0.1858791891146564
+    },
+    {
+        "timestamp": "2024-11-27T13:36:57.750000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -40,
+        "distance": 0.17012542798525887
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -50,
+        "distance": 0.4124626382901352
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -61,
+        "distance": 1.0926008611173783
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -62,
+        "distance": 1.1937766417144364
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -71,
+        "distance": 2.648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -50,
+        "distance": 0.4124626382901352
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:03.110000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -42,
+        "distance": 0.20309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -60,
+        "distance": 1.0
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:37:08.470000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -78,
+        "distance": 4.923882631706739
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -47,
+        "distance": 0.31622776601683794
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -34,
+        "distance": 0.1
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -74,
+        "distance": 3.455107294592219
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -68,
+        "distance": 2.0309176209047357
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -50,
+        "distance": 0.4124626382901352
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -58,
+        "distance": 0.8376776400682919
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -55,
+        "distance": 0.6422325422229359
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -37,
+        "distance": 0.13043213867190054
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -70,
+        "distance": 2.4244620170823286
+    },
+    {
+        "timestamp": "2024-11-27T13:37:13.820000",
+        "id": "sensor1",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -42,
+        "distance": 0.20309176209047358
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -64,
+        "distance": 1.425102670302998
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -56,
+        "distance": 0.7017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -36,
+        "distance": 0.11937766417144363
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -40,
+        "distance": 0.17012542798525887
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -39,
+        "distance": 0.1557068404753731
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:37:19.200000",
+        "id": "sensor1",
+        "name": "ROMTech_Accuangle",
+        "address": "D7:AA:37:2E:8D:4F",
+        "rssi": -82,
+        "distance": 7.017038286703828
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.570000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.570000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.570000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -47,
+        "distance": 0.31622776601683794
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.570000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.570000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -31,
+        "distance": 0.07666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.570000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -34,
+        "distance": 0.1
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.570000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.570000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -45,
+        "distance": 0.2648969287610528
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.570000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:37:24.570000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "30-52-68-7C-77-DD",
+        "address": "30:52:68:7C:77:DD",
+        "rssi": -44,
+        "distance": 0.24244620170823283
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "C1-32-6F-C4-0F-6F",
+        "address": "C1:32:6F:C4:0F:6F",
+        "rssi": -43,
+        "distance": 0.22189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "47-71-8C-0E-AD-76",
+        "address": "47:71:8C:0E:AD:76",
+        "rssi": -35,
+        "distance": 0.10926008611173782
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "61-63-D1-F3-BF-EB",
+        "address": "61:63:D1:F3:BF:EB",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "2C-AF-33-58-6F-D1",
+        "address": "2C:AF:33:58:6F:D1",
+        "rssi": -33,
+        "distance": 0.09152473108773888
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "73-00-32-E4-3A-E7",
+        "address": "73:00:32:E4:3A:E7",
+        "rssi": -66,
+        "distance": 1.701254279852589
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "49-E5-60-31-C4-1B",
+        "address": "49:E5:60:31:C4:1B",
+        "rssi": -77,
+        "distance": 4.506570337745474
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "52-E3-5B-F5-27-A3",
+        "address": "52:E3:5B:F5:27:A3",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "59-80-82-17-05-85",
+        "address": "59:80:82:17:05:85",
+        "rssi": -57,
+        "distance": 0.7666822074546215
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "48-BB-C7-58-04-B3",
+        "address": "48:BB:C7:58:04:B3",
+        "rssi": -38,
+        "distance": 0.14251026703029981
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "FF-3C-3B-A5-E2-4D",
+        "address": "FF:3C:3B:A5:E2:4D",
+        "rssi": -46,
+        "distance": 0.2894266124716751
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "4C-F5-6E-5E-40-E1",
+        "address": "4C:F5:6E:5E:40:E1",
+        "rssi": -79,
+        "distance": 5.379838403443686
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6C:21:62:40:6A:30",
+        "rssi": -69,
+        "distance": 2.2189823414589713
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "48-6E-99-2B-8E-0B",
+        "address": "48:6E:99:2B:8E:0B",
+        "rssi": -85,
+        "distance": 9.15247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "E4-E3-4B-1B-90-DF",
+        "address": "E4:E3:4B:1B:90:DF",
+        "rssi": -59,
+        "distance": 0.915247310877389
+    },
+    {
+        "timestamp": "2024-11-27T13:37:29.960000",
+        "id": "sensor1",
+        "name": "FB-A7-4F-BF-65-17",
+        "address": "FB:A7:4F:BF:65:17",
+        "rssi": -67,
+        "distance": 1.8587918911465637
+    }
+]
