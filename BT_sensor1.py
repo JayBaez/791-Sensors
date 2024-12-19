@@ -9,6 +9,7 @@ from bleak import BleakScanner
 json_file_path = "BTbluetooth_scan_data_1.json"
 txt_file_path = "BTbluetooth_scan_data_1.txt"
 
+
 # Define function for RSSI to distance conversion
 def rssi_to_distance(rssi):
     """ Convert RSSI value to distance (in meters) using a simple path-loss model """
@@ -16,6 +17,7 @@ def rssi_to_distance(rssi):
     n = 2.6  # Path loss exponent
     distance = 10 ** ((A - rssi) / (10 * n))
     return distance
+
 
 # Function to clear the files at the start
 def clear_files():
@@ -32,6 +34,7 @@ def clear_files():
 
     except Exception as e:
         print(f"Error clearing files: {e}")
+
 
 # Function to save devices to JSON and text files
 def save_to_files(devices):
@@ -61,6 +64,7 @@ def save_to_files(devices):
 
     except Exception as e:
         print(f"Error saving to files: {e}")
+
 
 # Function to scan for Bluetooth devices and return data
 async def scan_devices(args):
@@ -98,6 +102,7 @@ async def scan_devices(args):
 
     return devices_data
 
+
 # Function to wait until the next minute
 async def wait_until_next_minute():
     now = datetime.now()
@@ -105,6 +110,7 @@ async def wait_until_next_minute():
     wait_time = (next_minute - now).total_seconds()
     print(f"Waiting {wait_time:.2f} seconds until the next minute...")
     await asyncio.sleep(wait_time)
+
 
 # Main loop to scan every 0.25 seconds and save results
 async def main(args: argparse.Namespace):
@@ -119,6 +125,7 @@ async def main(args: argparse.Namespace):
         else:
             print("No devices found to save.")
         await asyncio.sleep(0.25)  # Wait 0.25 seconds before the next scan
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

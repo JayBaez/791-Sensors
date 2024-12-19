@@ -1,0 +1,154 @@
+[
+    {
+        "timestamp": "2024-12-17T15:00:05.170000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "4A:9C:BB:54:36:A4",
+        "rssi": -76,
+        "distance": 4.1246263829013525
+    },
+    {
+        "timestamp": "2024-12-17T15:00:05.170000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "45:E3:24:2B:53:6C",
+        "rssi": -51,
+        "distance": 0.4506570337745474
+    },
+    {
+        "timestamp": "2024-12-17T15:00:05.170000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "7B:E8:29:C8:A9:4E",
+        "rssi": -91,
+        "distance": 15.57068404753731
+    },
+    {
+        "timestamp": "2024-12-17T15:00:05.170000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "02:22:47:9F:41:BF",
+        "rssi": -81,
+        "distance": 6.42232542222936
+    },
+    {
+        "timestamp": "2024-12-17T15:00:05.170000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "73:B1:92:8C:8C:21",
+        "rssi": -75,
+        "distance": 3.7750532053243937
+    },
+    {
+        "timestamp": "2024-12-17T15:00:05.170000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "21:95:CD:88:41:FA",
+        "rssi": -54,
+        "distance": 0.5878016072274913
+    },
+    {
+        "timestamp": "2024-12-17T15:00:05.170000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "5F:D1:CA:FE:13:0D",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-12-17T15:00:05.170000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "F0:0A:F5:37:2C:01",
+        "rssi": -83,
+        "distance": 7.666822074546214
+    },
+    {
+        "timestamp": "2024-12-17T15:00:05.170000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "6B:AB:AA:C3:AF:41",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-12-17T15:00:05.170000",
+        "id": "sensor1",
+        "name": "NHVB9",
+        "address": "6E:0D:99:6A:B7:93",
+        "rssi": -88,
+        "distance": 11.937766417144363
+    },
+    {
+        "timestamp": "2024-12-17T15:00:10.470000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "02:22:47:9F:41:BF",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-12-17T15:00:10.470000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "5F:D1:CA:FE:13:0D",
+        "rssi": -80,
+        "distance": 5.878016072274914
+    },
+    {
+        "timestamp": "2024-12-17T15:00:10.470000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "E6:A9:F1:86:33:B0",
+        "rssi": -90,
+        "distance": 14.251026703029977
+    },
+    {
+        "timestamp": "2024-12-17T15:00:10.470000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "4A:9C:BB:54:36:A4",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-12-17T15:00:10.470000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "45:E3:24:2B:53:6C",
+        "rssi": -47,
+        "distance": 0.31622776601683794
+    },
+    {
+        "timestamp": "2024-12-17T15:00:10.470000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "21:95:CD:88:41:FA",
+        "rssi": -56,
+        "distance": 0.7017038286703828
+    },
+    {
+        "timestamp": "2024-12-17T15:00:10.470000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "73:B1:92:8C:8C:21",
+        "rssi": -84,
+        "distance": 8.37677640068292
+    },
+    {
+        "timestamp": "2024-12-17T15:00:10.470000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "FE:CD:3F:89:70:8F",
+        "rssi": -73,
+        "distance": 3.1622776601683795
+    },
+    {
+        "timestamp": "2024-12-17T15:00:10.470000",
+        "id": "sensor1",
+        "name": "Unknown",
+        "address": "6B:AB:AA:C3:AF:41",
+        "rssi": -87,
+        "distance": 10.926008611173785
+    }
+]
